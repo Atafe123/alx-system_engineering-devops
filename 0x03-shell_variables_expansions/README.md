@@ -1,1 +1,1 @@
-ssion
+shell variables expansion
