@@ -1,1 +1,2 @@
-#!/bin/bash is -l
+#!/bin/bash
+is -l
